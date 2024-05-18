@@ -1,4 +1,4 @@
-
+![Screenshot 2024-05-18 100010](https://github.com/TjMagpantay/Spartan-Odyssey-The-Programming-Realm/assets/100856259/e4315eaf-86aa-4bd3-8081-c9ae0c67d596)
 # Spartan-Odyssey-The-Programming-Realm
 ## IT 222 - FINAL PROJECT
 

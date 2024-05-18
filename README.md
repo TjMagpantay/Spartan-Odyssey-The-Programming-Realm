@@ -7,4 +7,5 @@ We are the researchers and developers from BSIT 2203, second-year IT students at
 
 "Spartan Odyssey: The Programming Realm" offers tools to help players improve their problem-solving abilities and programming skills while maintaining their interest in learning. Additionally, we believe that our educational game can inspire first-year IT students to pursue further education and studies in the field of game development.
 
-
+## Website Preview
+![Screenshot 2024-05-18 100010](https://github.com/TjMagpantay/Spartan-Odyssey-The-Programming-Realm/assets/100856259/e4315eaf-86aa-4bd3-8081-c9ae0c67d596)
